@@ -6,7 +6,7 @@
 class Ndus:
     def __init__(self):
         self.details = {
-            "age": 19,
+            "age": 20,
             "boy": true,
             "locale": "Indonesia",
             "languages": ["Javascript", "Python", "Typescript", "Lua", "React"],
